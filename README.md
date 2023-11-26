@@ -33,5 +33,5 @@ If you'd like to contribute to the project, please follow https://github.com/Shi
 
 ## Contact
 
-For questions or feedback, please contact [shilpa kumari] at [shilpakumarii23051@gmail.com].
+For questions or feedback, please contact shilpa kumari at shilpakumarii23051@gmail.com.
 
